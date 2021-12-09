@@ -35,7 +35,7 @@ def gcd():
 
 ## Output:
 ![gcd of two number](gcd.png)
-![OUTPUT](CCD.png)
+![OUTPUT](CCD1.png)
 
 
 ## Result:
